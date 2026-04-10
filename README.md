@@ -1,6 +1,7 @@
-![Example ternary diagram (Shepard plot)](./Example_Grain_Size_Gravel.png)
-
 ##  shepard_plot
+
+![Example ternary diagram (Shepard plot)](./Example_Grain_Size_gravel.png)
+--------------------------
 Plots sand/silt/clay ternary plot (Shepard diagram)
 
 Created with the help of ChatGPT 5.2
